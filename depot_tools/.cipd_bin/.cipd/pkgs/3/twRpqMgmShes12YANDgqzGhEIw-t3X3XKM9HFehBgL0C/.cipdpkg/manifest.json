@@ -1,0 +1,17 @@
+{
+  "format_version": "1.1",
+  "package_name": "infra/tools/luci-auth/windows-amd64",
+  "version_file": ".versions/luci-auth.exe.cipd_version",
+  "files": [
+    {
+      "name": "luci-auth.exe",
+      "size": 17093120,
+      "hash": "yxLhRKieeVrdFO9wHndQHu8AA45NPEwZYIeWQQDYHpwC"
+    },
+    {
+      "name": ".versions/luci-auth.exe.cipd_version",
+      "size": 124,
+      "hash": "VjDJ0vSgIqQRUWq5nkyl0RwpdRjeKWvBaLHYZCaBJucC"
+    }
+  ]
+}

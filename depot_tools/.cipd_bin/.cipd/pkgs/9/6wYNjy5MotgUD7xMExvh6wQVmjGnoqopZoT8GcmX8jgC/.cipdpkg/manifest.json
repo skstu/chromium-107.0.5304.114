@@ -1,0 +1,98 @@
+{
+  "format_version": "1.1",
+  "package_name": "infra/goma/client/windows-amd64",
+  "install_mode": "copy",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "LICENSE",
+      "size": 94612,
+      "hash": "UJEXjML8rCdzzTz5_hgaPp7_1vO083Gyyv3z5C6krDIC"
+    },
+    {
+      "name": "compiler_proxy.exe",
+      "size": 9825280,
+      "hash": "YQ26EsANLM6SBc4SA-j7LhhKlS4le645sqjm3zdW9QQC"
+    },
+    {
+      "name": "compiler_proxy.exe.pdb",
+      "size": 73887744,
+      "hash": "W-ULKaPwWuf7J0zKY1JmHOR6Exck1oic2Q_2eVY7K_wC"
+    },
+    {
+      "name": "compiler_proxy.sym",
+      "size": 9950515,
+      "hash": "fTrAux6j3I0rdtmcwenKx013EaZm6qk5YnXFxHOo3LUC"
+    },
+    {
+      "name": "diagnose_goma_log.py",
+      "size": 23757,
+      "hash": "PYRO3BGaPkqYVU82qI1sed-C-fTKPmhWXPl7HyAAwAoC"
+    },
+    {
+      "name": "goma_auth.bat",
+      "size": 325,
+      "hash": "LneUHb45Gylf7PSQDfUal-Di09MrHxYLW4b5v3-R8nwC"
+    },
+    {
+      "name": "goma_auth.py",
+      "size": 15824,
+      "hash": "XZ8gxS276kD6KDveqPAQFo3NABSEKZCBlL7-B4mwUCAC"
+    },
+    {
+      "name": "goma_ctl.bat",
+      "size": 478,
+      "hash": "BBywYfhGeg6YudjbXfowfZOuWb81WpgkHWfKDgplQLgC"
+    },
+    {
+      "name": "goma_ctl.py",
+      "size": 77894,
+      "hash": "tfvNcpHh0fBxzLfRhhe_LYSaXOyGFHtuKmqIyIdUwUkC"
+    },
+    {
+      "name": "goma_fetch.exe",
+      "size": 6249472,
+      "hash": "SqSPzDfIAuv4burt2F-TyUpwOd4sUEMaP5fy9AyRiOYC"
+    },
+    {
+      "name": "goma_fetch.exe.pdb",
+      "size": 48959488,
+      "hash": "4u9Qv66rU3x10CwzlGURPZ1RaU0OEzu-22ES1W38tHoC"
+    },
+    {
+      "name": "gomacc.exe",
+      "size": 4274688,
+      "hash": "2mbLrDUgmMm93Gt8vTdME8qCciLR6DsldN7KAfgFqMcC"
+    },
+    {
+      "name": "gomacc.exe.pdb",
+      "size": 39460864,
+      "hash": "W0j1f8LgUXN-_TDl_eq5sULRlriOl-yGYeV6JUgRp78C"
+    },
+    {
+      "name": "gomacc.sym",
+      "size": 5345043,
+      "hash": "0ErW2-umoKrN3_HYAg__esi1z0FbzD3rJiRQIJ-qC_0C"
+    },
+    {
+      "name": "http_proxy.exe",
+      "size": 7225856,
+      "hash": "D1YJGhioll1oc8i6eFKmewtpos6393F9XO1cO4lV7lUC"
+    },
+    {
+      "name": "sha256.json",
+      "size": 1292,
+      "hash": "aja57Xrn0vgvkMGehm686gUkzShQ3s2r8N9JUPNrNKoC"
+    },
+    {
+      "name": "vcflags.exe",
+      "size": 516096,
+      "hash": "irka2Pt7XzO3JYAuOZ76tFG01X-E1fMtCCM1Lkc8HXAC"
+    },
+    {
+      "name": "vcflags.exe.pdb",
+      "size": 5910528,
+      "hash": "KMlvjd_zZF224RG8U3fHEr0OcVREizaDs-TDt-FRo_4C"
+    }
+  ]
+}

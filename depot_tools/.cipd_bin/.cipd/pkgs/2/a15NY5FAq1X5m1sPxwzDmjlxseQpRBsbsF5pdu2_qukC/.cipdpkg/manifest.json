@@ -1,0 +1,22 @@
+{
+  "format_version": "1.1",
+  "package_name": "infra/tools/luci/lucicfg/windows-amd64",
+  "version_file": ".versions/lucicfg.exe.cipd_version",
+  "files": [
+    {
+      "name": "lucicfg.bat",
+      "size": 68,
+      "hash": "JrMceynbgJNTenzivp40Vl6HxTEbyQ9JUkhNctIxSnMC"
+    },
+    {
+      "name": "lucicfg.exe",
+      "size": 25971200,
+      "hash": "LgSHxQyuc0xCRNgipY4HxXQ3nYzzQ2tB-VNHMZsLbEsC"
+    },
+    {
+      "name": ".versions/lucicfg.exe.cipd_version",
+      "size": 127,
+      "hash": "MLZOdNm8n_P8M0e3dWRLh2IQls1TbqtlixH0GiZewGYC"
+    }
+  ]
+}
