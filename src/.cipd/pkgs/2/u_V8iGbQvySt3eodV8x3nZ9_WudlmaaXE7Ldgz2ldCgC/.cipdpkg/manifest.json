@@ -1,0 +1,23 @@
+{
+  "format_version": "1.1",
+  "package_name": "infra/3pp/tools/7z/windows-amd64",
+  "install_mode": "copy",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "7za.exe",
+      "size": 1142272,
+      "hash": "onljTb0-bHGj2Mq8M2uyShhP52YfL54X4fS4k3cul8wC"
+    },
+    {
+      "name": "7zr.exe",
+      "size": 829952,
+      "hash": "RMJPe-E3wScF_K3vu9LnN3S964FdbeGOhBLLrCpd7UYC"
+    },
+    {
+      "name": "7zz.exe",
+      "size": 1920512,
+      "hash": "c_n_gY5X4FgMCMnqeGApXcOTgtQnN9oJCQNoFeFiUXAC"
+    }
+  ]
+}

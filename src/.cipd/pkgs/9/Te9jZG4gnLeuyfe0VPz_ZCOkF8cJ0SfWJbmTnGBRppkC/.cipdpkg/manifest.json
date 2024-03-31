@@ -1,0 +1,18 @@
+{
+  "format_version": "1.1",
+  "package_name": "infra/tools/luci/isolate/windows-amd64",
+  "version_file": ".versions/isolate.exe.cipd_version",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "isolate.exe",
+      "size": 19521536,
+      "hash": "qXMza0WhEgj22Pnb03FPxUBlsAeY2iKo9i3UZ-_WLX0C"
+    },
+    {
+      "name": ".versions/isolate.exe.cipd_version",
+      "size": 127,
+      "hash": "mNDgCfSc0cCm8T9H36KaydHiuhcu49ugpxNSeNd3t1IC"
+    }
+  ]
+}

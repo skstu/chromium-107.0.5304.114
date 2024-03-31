@@ -1,0 +1,4 @@
+{
+  "subdir": "src/third_party/lzma_sdk/bin/win64",
+  "package_name": "infra/3pp/tools/7z/windows-amd64"
+}

@@ -1,0 +1,19 @@
+{
+  "format_version": "1.1",
+  "package_name": "gn/gn/windows-amd64",
+  "version_file": ".versions/gn.exe.cipd_version",
+  "install_mode": "copy",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "gn.exe",
+      "size": 2462720,
+      "hash": "y32NNkCQ1l59XQkM7RsM8KYp9JVa6e5DNx11H3kUrN0C"
+    },
+    {
+      "name": ".versions/gn.exe.cipd_version",
+      "size": 108,
+      "hash": "QpeM17lTmqEiFsmF-6gP5un8n6SJMj9K6mEsymhvgZYC"
+    }
+  ]
+}

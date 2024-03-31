@@ -1,0 +1,18 @@
+{
+  "format_version": "1.1",
+  "package_name": "infra/tools/result_adapter/windows-amd64",
+  "version_file": ".versions/result_adapter.exe.cipd_version",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "result_adapter.exe",
+      "size": 15681536,
+      "hash": "IpwZL7-BIltuAJYd9xOwgxhfrRMoGu6CqqrfhvoyvzoC"
+    },
+    {
+      "name": ".versions/result_adapter.exe.cipd_version",
+      "size": 129,
+      "hash": "RA8d1iiAynL9A5BOOLgGU3iRQ4G3eWnLORBQw6W2F5QC"
+    }
+  ]
+}
